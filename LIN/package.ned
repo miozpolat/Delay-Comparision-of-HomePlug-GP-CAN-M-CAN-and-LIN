@@ -1,0 +1,3 @@
+package newlin;
+
+@license(LGPL);

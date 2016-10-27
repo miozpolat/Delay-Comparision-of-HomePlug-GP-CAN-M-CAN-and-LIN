@@ -1,0 +1,25 @@
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr01D4CC00 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .inspector0.c ptr01D4CC00 2"
+
+
+Tcl error: moduleinspector.cc#631: ptr01D47CE0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .inspector2.c ptr01D47CE0 2"
+
+
