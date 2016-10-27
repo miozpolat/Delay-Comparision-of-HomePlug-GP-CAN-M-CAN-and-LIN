@@ -1,0 +1,3 @@
+package canbus;
+
+@license(LGPL);
